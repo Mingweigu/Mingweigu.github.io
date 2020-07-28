@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>A Placeholder Post</title>
       <link>https://mingwei.me/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jun 2020 12:05:12 -0400</pubDate>
       
       <guid>https://mingwei.me/posts/my-first-post/</guid>
-      <description>Hello, this is a post page</description>
+      <description>Well hello. Nothing yet. More to come.</description>
     </item>
     
     <item>
@@ -26,7 +26,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mingwei.me/about/</guid>
-      <description>Hello, this is an about page.</description>
+      <description>Hi, I’m Mingwei Gu, and this is my personal website and blog.
+I spent eight years at YipitData, a data-driven investment research firm in NYC. When I left, I was leading a multi-disciplinary engineering team developing tools and platforms for internal data analyst teams.
+Before that, I briefly worked in derivatives trading. And before that, I graduated from MIT with a degree in math with computer science.
+Currently, I’m exploring product ideas in the data engineering and analytics space.</description>
     </item>
     
   </channel>
